@@ -19,6 +19,9 @@
     color: #eee;
     margin-left: 2rem;
 }
+.user-info i {
+    margin-right: 5px;
+}
 
 .info {
     margin-bottom: 20px;
