@@ -1,0 +1,63 @@
+.card {
+    background-image: linear-gradient(to right bottom, #422a76, #3e2a74, #3a2972, #36296f, #32286d);
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(154, 160, 185, 0.05),
+        0 15px 40px rgba(0, 0, 0, 0.1);
+    display: flex;
+    padding: 3rem;
+    max-width: 800px;
+}
+
+.avatar {
+    border: 6px solid #2a2a72;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+.user-info {
+    color: #eee;
+    margin-left: 2rem;
+}
+
+.info {
+    margin-bottom: 20px;
+}
+.info h2 {
+    margin-top: 0;
+}
+
+.info p{
+    color: rgb(168, 168, 168);
+}
+
+.links-info ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    max-width: 400px;
+}
+
+.links-info i {
+    margin-right: 10px;
+}
+
+.links-info li:hover{
+    cursor: pointer;
+}
+
+.git-info ul {
+    display: flex;
+    justify-content: start;
+    list-style-type: none;
+    padding: 0;
+    max-width: 400px;
+}
+
+.git-info li:last-child{
+    margin-left: 5px;
+}
+
+.git-info i {
+    margin-right: 5px;
+}

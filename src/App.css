@@ -6,8 +6,8 @@
 }
 
 body {
-    background-color: #2a2a72;
-    background-image: linear-gradient(315deg, #2a2a72 0%, #2e2a68 75%);
+    background-color: #2e2a68;
+    background-image: linear-gradient(to right bottom, #2e2a68, #2d2c69, #2b2e69, #2a2f6a, #29316a, #29316a, #29316a, #29316a, #2a2f6a, #2b2e69, #2d2c69, #2e2a68);
     display: flex;
     flex-direction: column;
     align-items: center;
