@@ -23,6 +23,11 @@
     margin-right: 5px;
 }
 
+.nav-link{
+    text-decoration: none;
+    color: #eee;
+}
+
 .info {
     margin-bottom: 20px;
 }
