@@ -5,7 +5,7 @@ function Footer() {
 
     return (
         <div className='footer'>
-            <p>Theme By <a href='/' className='link' target='_blank'>Github Profile Page</a></p>
+            <p>Theme By <a href='https://github.com/bilarslan/github-profile-page' className='link' target='_blank'>Github Profile Page</a></p>
         </div>
     )
 
