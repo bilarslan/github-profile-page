@@ -1,6 +1,13 @@
 # 🌐 Github-Profile-Page
 
-Github Pages template developed by ReactJS
+Github Pages template for personel websites
+![Page](./img/page.jpg)
+
+The theme inspered by 'https://uidesigndaily.com/posts/photoshop-profile-card-user-day-286'
+
+## 🧪 Requirements:
+· NodeJS
+· Npm
 
 ## 📘 Installation:
 
@@ -59,3 +66,24 @@ git push origin master
 ![Github Pages](./img/settings.jpg)
 
 · Navigate to http://YOUR_GIHUB_USERNAME.github.io and it is ready
+
+## 📑 TODO:
+[x] Home Page
+[ ] News Page
+[ ] CV
+[ ] Blog Page
+
+## 🔧 Issues:
+Issues are welcome. Please create a new issue under the issues tab.
+
+MIT Licensed
+
+
+## 🔨 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+## ⚖️ License
+
+[MIT](https://choosealicense.com/licenses/mit/
