@@ -1,13 +1,13 @@
-# :white_check_mark: Github-Profile-Page
+# 🌐 Github-Profile-Page
 
-Github Pages template for personel websites
+Github Pages template developed by ReactJS
 
-## :blue_book: Installation:
+## 📘 Installation:
 
 Fork the repo to your repositories.
-Edit the forked repo name to YOURUSERNAME.github.io
+Edit the forked repo name to YOUR_GIHUB_USERNAME.github.io
 
-Clone the code and edit:
+· Clone the code and edit:
 
 in package.json:
 ```
@@ -24,33 +24,38 @@ const extraData = {
         linkedin_url: null, //'https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/',
 };
 ```
-Init the project
+· Init the project
 ```
 npm install
 ```
 
-To test in local:
+· To test in local:
 ```
 npm start
 ```
 
-If everthing is OK, you are ready to deploy
+· If everthing is OK, you are ready to deploy
 
 ```
 npm run deploy
 ```
 
-Add your changes
+· Add your changes
 ```
 git add .
 ```
 
-Commit them
+· Commit them
 ```
 git commit -m "deploy"
 ```
 
-Push the changes
+· Push the changes
 ```
 git push origin master
 ```
+
+· In settings of the repository, change source to 'gh-pages' in GitHub Pages section and save.
+![Github Pages](./img/settings.jpg)
+
+· Navigate to http://YOUR_GIHUB_USERNAME.github.io and it is ready
