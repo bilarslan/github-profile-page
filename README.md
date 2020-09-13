@@ -3,13 +3,15 @@
 Github Pages template for personel websites
 ![Page](./img/page.jpg)
 
-The theme inspered by 'https://uidesigndaily.com/posts/photoshop-profile-card-user-day-286'
+See the page in action https://bilarslan.github.io/
 
-## 🧪 Requirements:
+The theme inspered by https://uidesigndaily.com/posts/photoshop-profile-card-user-day-286
+
+## 🧪 Requirements
 · NodeJS
 · Npm
 
-## 📘 Installation:
+## 📘 Installation
 
 Fork the repo to your repositories.
 Edit the forked repo name to YOUR_GIHUB_USERNAME.github.io
@@ -67,13 +69,13 @@ git push origin master
 
 · Navigate to http://YOUR_GIHUB_USERNAME.github.io and it is ready
 
-## 📑 TODO:
+## 📑 TODO
 [x] Home Page
 [ ] News Page
 [ ] CV
 [ ] Blog Page
 
-## 🔧 Issues:
+## 🔧 Issues
 Issues are welcome. Please create a new issue under the issues tab.
 
 MIT Licensed
@@ -86,4 +88,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## ⚖️ License
 
-[MIT](https://choosealicense.com/licenses/mit/
+[MIT](https://choosealicense.com/licenses/mit/)
