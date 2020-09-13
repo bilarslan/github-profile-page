@@ -15,9 +15,10 @@ The theme inspered by https://uidesigndaily.com/posts/photoshop-profile-card-use
 ## 📘 Installation
 
 Fork the repo to your repositories.
+
 Edit the forked repo name to YOUR_GITHUB_USERNAME.github.io
 
-· Clone the code and edit:
+· Clone the code in your local and edit:
 
 in package.json:
 ```
