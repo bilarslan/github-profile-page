@@ -9,6 +9,7 @@ The theme inspered by https://uidesigndaily.com/posts/photoshop-profile-card-use
 
 ## 🧪 Requirements
 · NodeJS
+
 · Npm
 
 ## 📘 Installation
@@ -71,8 +72,11 @@ git push origin master
 
 ## 📑 TODO
 [x] Home Page
+
 [ ] News Page
+
 [ ] CV
+
 [ ] Blog Page
 
 ## 🔧 Issues
