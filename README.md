@@ -26,7 +26,7 @@ in package.json:
 
 in src/pages/Home.js:
 ```
-const APIURL = githttps://api.github.com/users/YOUR_GITHUB_USERNAME
+const APIURL = 'https://api.github.com/users/YOUR_GITHUB_USERNAME';
 
 const extraData = {
         showRepoStatus: true,
