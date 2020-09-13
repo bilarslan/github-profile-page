@@ -15,18 +15,18 @@ The theme inspered by https://uidesigndaily.com/posts/photoshop-profile-card-use
 ## 📘 Installation
 
 Fork the repo to your repositories.
-Edit the forked repo name to YOUR_GIHUB_USERNAME.github.io
+Edit the forked repo name to YOUR_GITHUB_USERNAME.github.io
 
 · Clone the code and edit:
 
 in package.json:
 ```
-"homepage": "http://YOUR_GIHUB_USERNAME.github.io",
+"homepage": "http://YOUR_GITHUB_USERNAME.github.io",
 ```
 
 in src/pages/Home.js:
 ```
-const APIURL = githttps://api.github.com/users/YOUR_GIHUB_USERNAME
+const APIURL = githttps://api.github.com/users/YOUR_GITHUB_USERNAME
 
 const extraData = {
         showRepoStatus: true,
@@ -68,7 +68,7 @@ git push origin master
 · In settings of the repository, change source to 'gh-pages' in GitHub Pages section and save.
 ![Github Pages](./img/settings.jpg)
 
-· Navigate to http://YOUR_GIHUB_USERNAME.github.io and it is ready
+· Navigate to http://YOUR_GITHUB_USERNAME.github.io and it is ready
 
 ## 📑 TODO
 [x] Home Page

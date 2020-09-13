@@ -3,7 +3,7 @@ import axios from 'axios';
 
 import Card from '../components/Card';
 
-const APIURL = 'https://api.github.com/users/YOUR_GIHUB_USERNAME';
+const APIURL = 'https://api.github.com/users/YOUR_GITHUB_USERNAME';
 
 function Home() {
 
