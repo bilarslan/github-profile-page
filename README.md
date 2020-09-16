@@ -5,7 +5,7 @@ Github Pages template for personel websites
 
 See the page in action https://bilarslan.github.io/
 
-The theme inspered by https://uidesigndaily.com/posts/photoshop-profile-card-user-day-286
+The theme inspired by https://uidesigndaily.com/posts/photoshop-profile-card-user-day-286
 
 ## 🧪 Requirements
 · NodeJS
@@ -76,14 +76,13 @@ git push origin master
 
 [ ] News Page
 
+[ ] Blog Page
+
 [ ] CV
 
-[ ] Blog Page
 
 ## 🔧 Issues
 Issues are welcome. Please create a new issue under the issues tab.
-
-MIT Licensed
 
 
 ## 🔨 Contributing
